@@ -1,5 +1,5 @@
 # Posgrado en Ciencia e Ingeniería de la Computación 
-## Accelerando algoritmos de Aprendizaje profundo usando GPUs
+
 ###  Semestre: 2021-II
 ![alt text](figs/logo.png)
 
