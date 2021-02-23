@@ -41,6 +41,6 @@ Se deberán crear cuentas en las siguientes plataformas:
 ## Contenido del curso
 | No.        | Tema           | Conceptos |Código  |  Material complementario|
 | :-------------: |:-------------| :-------------|:-----:| :-----|
-| 1.              |Introducción a la programación con GPUs          | Introducción a CUDA, modelo de programación paralelo, consulta de dispositivo |   --     |  Artículo
+| 1.              |Introducción a la programación con GPUs          | Introducción a CUDA, modelo de programación paralelo, consulta de dispositivo |   --     |  Capítulo 1 - (David Kirk et al., 2017)
 
-** Última actualización: 23 de febrero de 2021**
+**Última actualización: 23 de febrero de 2021**
