@@ -6,6 +6,7 @@
 
 ## Profesores
  Dr. Ulises Olivares Pinto
+ 
  Dr. David Oswaldo Pérez Martínez
 
 ## Objetivo del curso
