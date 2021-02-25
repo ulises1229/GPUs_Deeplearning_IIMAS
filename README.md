@@ -43,7 +43,7 @@ Se deberán crear cuentas en las siguientes plataformas:
 | No.        | Tema           | Conceptos |Código  |  Material complementario|
 | :-------------: |:-------------| :-------------|:-----:| :-----|
 | 1.              |Introducción a la programación con GPUs          | Introducción a CUDA, modelo de programación paralelo, consulta de dispositivo |   <ol><li>[Hello World](code/1.hello.cu)</li> <li>[vectorAdd](code/2.vectorAdd.cu)</li> <li>[CUDA Samples](https://github.com/NVIDIA/cuda-samples)</li></ol>    |  Capítulo 1 - (D.Kirk et al., 2017)
-| 2.              |Organización de bloque e Hilos     | Bloques e  hilos y rendimiento |   <ol><li></li></ol>    |  Capítulos 2 y 3 - (D.Kirk et al., 2017)
+| 2.              |Organización de bloque e Hilos     | Bloques,  hilos, indexación y rendimiento |   <ol><li></li></ol>    |  Capítulos 2 y 3 - (D.Kirk et al., 2017)
 
 
 **Última actualización: 25 de febrero de 2021**
